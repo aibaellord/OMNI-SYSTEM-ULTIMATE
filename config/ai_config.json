@@ -1,0 +1,6 @@
+{
+  "unlimited_generation": true,
+  "no_rate_limits": true,
+  "infinite_context": true,
+  "quantum_acceleration": true
+}

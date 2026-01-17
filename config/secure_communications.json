@@ -1,0 +1,8 @@
+{
+  "tls_version": "1.3",
+  "cipher_suites": [
+    "TLS_AES_256_GCM_SHA384"
+  ],
+  "certificate_validation": "strict",
+  "hsts": true
+}

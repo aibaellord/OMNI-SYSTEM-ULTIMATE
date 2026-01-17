@@ -1,0 +1,6 @@
+{
+  "encryption": "AES-256",
+  "key_exchange": "ECDH",
+  "authentication": "Multi-factor",
+  "access_control": "Zero-trust"
+}
