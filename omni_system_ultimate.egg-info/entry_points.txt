@@ -1,0 +1,3 @@
+[console_scripts]
+omni-cli = omni_system.cli.omni_cli:sync_main
+omni-system = omni_system.core.system_manager:main
